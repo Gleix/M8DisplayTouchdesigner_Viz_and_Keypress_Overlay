@@ -1,3 +1,5 @@
+*** PLEASE NOTE, this software is no longer compatible with the Dirtywave M8 if you are running past Firmware ~3.1 (there was an overhaul with how the display is recreated in the vanilla TouchDesigner M8 Display when Trash80 introduced Big Fonts). At this stage there are new alternatives showing up though - check the discord :)
+
 # M8 Display + simple visual features
 
 See video overview for info: https://youtu.be/FMR5dIHkMnY
